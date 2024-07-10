@@ -1,0 +1,11 @@
+dash 
+dash-core-components
+dash-html-components
+dash-table
+Flask
+pandas
+pandas-datareader
+numpy
+plotly
+gunicorn
+dash-bootstrap-components==1.2.1
