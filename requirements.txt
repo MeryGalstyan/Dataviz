@@ -2,10 +2,11 @@ dash
 dash-core-components
 dash-html-components
 dash-table
-Flask
+Flask==2.0.1
 pandas
 pandas-datareader
 numpy
 plotly
-gunicorn
+gunicorn==20.1.0
 dash-bootstrap-components==1.2.1
+requests==2.26.0
